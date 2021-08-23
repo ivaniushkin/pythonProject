@@ -1,3 +1,1 @@
 print("Kostia")
-
-print("Bas")
